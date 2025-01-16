@@ -1,6 +1,3 @@
-Here's the content formatted as proper Markdown for easy copy-paste:
-
-```markdown
 # Transformer²
 
 This repository contains an end-to-end prototype for **Transformer²** (“Transformer-Squared”)—a self-adaptive Large Language Model (LLM) framework. It demonstrates:
