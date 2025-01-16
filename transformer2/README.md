@@ -1,4 +1,4 @@
-# Transformer²: Production-Grade Example
+# Transformer²
 
 This repository contains an end-to-end prototype for **Transformer²** (“Transformer-Squared”)—a self-adaptive Large Language Model (LLM) framework. It demonstrates:
 
