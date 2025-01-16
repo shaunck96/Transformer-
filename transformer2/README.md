@@ -1,3 +1,6 @@
+Here's the content formatted as proper Markdown for easy copy-paste:
+
+```markdown
 # Transformer²
 
 This repository contains an end-to-end prototype for **Transformer²** (“Transformer-Squared”)—a self-adaptive Large Language Model (LLM) framework. It demonstrates:
@@ -205,3 +208,4 @@ The code includes the building blocks for typical **Transformer²** adaptation:
 
 5. **Where do I place reward modeling?**  
    - Reward modeling can be integrated in the `SVF_PPOTrainer.train_on_prompts(...)` function. Instead of naive substring checks, you’d do more sophisticated scoring.
+```
