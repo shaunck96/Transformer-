@@ -57,7 +57,7 @@ In this production-oriented example, we demonstrate how to:
 
 ```
 .
-├── transformer2_production.py  # Main code illustrating Transformer² for production
+├── finetuner.py  # Main code illustrating Transformer² for production
 ├── README.md                   # This README file
 └── requirements.txt            # Example dependencies (optional)
 ```
