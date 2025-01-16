@@ -46,7 +46,7 @@ In this production-oriented example, we demonstrate how to:
 
 ## Features & Highlights
 
-- **Parameter Efficiency**: We only learn small \(\mathbf{z}\)-vectors, leaving the vast majority of the base model frozen.  
+- **Parameter Efficiency**: We only learn small vectors, leaving the vast majority of the base model frozen.  
 - **Stable RL Fine-tuning**: Uses [**trl**](https://github.com/lvwerra/trl)'s PPO implementation, integrated with [**Accelerate**](https://github.com/huggingface/accelerate).  
 - **Scalability**: The pipeline works for smaller or larger models. For very large models (e.g., 70B), you can rely on advanced parallelization.  
 - **Modularity**: Adapt the code to new tasks or sub-domains by plugging in your own data, reward functions, and classification prompts.  
